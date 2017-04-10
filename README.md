@@ -1,5 +1,5 @@
 # renovation-search
-renovation search demo page
+renovation search demo page done in React
 
 ## Instructions on how to run it locally
 - Have node installed on your computer locally
